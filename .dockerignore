@@ -1,0 +1,7 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+# Local files
+local_settings.py
